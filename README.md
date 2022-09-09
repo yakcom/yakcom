@@ -5,7 +5,7 @@
   </a>
   <a href="https://github.com/yakcom?tab=repositories">
   <br><br><br>
-  <img width="700" style="padding-left: 5px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=tokyonight" />
+  <img width="700" style="padding-left: 5px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=github_dark" />
   <br>
 
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakcom&theme=tokyonight" />
