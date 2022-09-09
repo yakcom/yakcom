@@ -11,6 +11,7 @@
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=github_dark&utcOffset=8" />
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
