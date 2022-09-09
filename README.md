@@ -11,6 +11,4 @@
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=github_dark&utcOffset=8" />
 </p>
 
-<img width="345" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" />
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,11&height=300&section=header&text=yakcom&fontSize=80&fontAlignY=35&descAlignY=55&animation=fadeIn&desc=Ilya%20Miller&fontColor=c9d1d9)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,11&height=100&section=header&text=yakcom&fontSize=80&fontAlignY=35&descAlignY=55&animation=fadeIn&desc=Ilya%20Miller&fontColor=c9d1d9)
