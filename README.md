@@ -5,7 +5,9 @@
   <br><br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" />
 </p>
+
 
 
 
