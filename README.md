@@ -11,7 +11,7 @@
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=github_dark&utcOffset=8" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yakcom)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yakcom&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
