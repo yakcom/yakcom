@@ -3,3 +3,5 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000000&color=A67635&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </p>
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
