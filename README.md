@@ -11,6 +11,6 @@
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=github_dark&utcOffset=8" />
 </p>
 
-<img width="345" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" />
+<img width="345" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" />
 
 
