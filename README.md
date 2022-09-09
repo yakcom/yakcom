@@ -5,13 +5,13 @@
   </a>
   <a href="https://github.com/yakcom?tab=repositories">
   <br><br><br>
-  <img width="700" style="padding-left: 5px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=github_dark" />
+  <img width="700" style="padding-left: 5px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=dracula" />
   <br>
 
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yakcom&theme=dracula" />
-  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yakcom&theme=github_dark" />
-  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakcom&theme=github_dark" />
-  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=github_dark&utcOffset=8" />
+  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yakcom&theme=dracula" />
+  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakcom&theme=dracula" />
+  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=dracula&utcOffset=8" />
   </a>
 </p>
 
