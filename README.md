@@ -11,4 +11,4 @@
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=github_dark&utcOffset=8" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&&color=gradient&customColorList=10,11)
