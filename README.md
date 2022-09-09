@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?color=auto)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
