@@ -15,4 +15,4 @@
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&&color=gradient&customColorList=10,11)
+<a href="https://github.com/yakcom"><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&&color=gradient&customColorList=10,11"/></a>
