@@ -11,7 +11,7 @@
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=tokyonight" />
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=tokyonight" />
   <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakcom&theme=tokyonight" />
-  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=tokyonight&utcOffset=8" />
+  <img width="345" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yakcom&theme=tokyonight&utcOffset=3" />
   </a>
 </p>
 
