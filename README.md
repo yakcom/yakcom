@@ -5,10 +5,10 @@
   <br><br><br>
   <img width="690" style="padding-left: 5px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=github_dark" />
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=8" />
+  <img width="335" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github_dark" />
+  <img width="335" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" />
+  <img width="335" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" />
+  <img width="335" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=8" />
 </p>
 
 
