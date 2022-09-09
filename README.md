@@ -4,4 +4,4 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000000&color=A67635&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </p>
 
-![123](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2077&theme=solarized_dark)
+![123](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=2077)
