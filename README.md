@@ -1,4 +1,4 @@
-<a href="https://github.com/yakcom"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9C6B4,100:6FA6C8&height=300&section=header&text=Ilya%20Miller&fontSize=70&fontAlignY=35&descAlignY=55&animation=fadeIn&desc=Software%20Engineer&fontColor=D1CFD5"/></a>
+<a href="https://github.com/yakcom"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2D3AB,100:7BAEDD&height=300&section=header&text=Ilya%20Miller&fontSize=70&fontAlignY=35&descAlignY=55&animation=fadeIn&desc=Software%20Engineer&fontColor=D1CFD5"/></a>
 
 <p align="center">
 <!--<a href="https://github.com/yakcom"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=10000&color=F9E6A6&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" />
