@@ -4,7 +4,7 @@
 <!--<a href="https://github.com/yakcom"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=10000&color=F9E6A6&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" />
   </a>-->
   <a href="https://github.com/yakcom?tab=repositories">
-  <br><br><br>
+  
   <img width="700" style="padding-left: 5px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakcom&theme=tokyonight"/>
   <br>
 
